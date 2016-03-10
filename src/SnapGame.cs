@@ -36,7 +36,7 @@ namespace CardGames
 		{
 			SwinGame.DrawBitmap("cardsBoard1.png", 0, 0);
 				
-			SwinGame.ClearScreen(Color.White);
+
 
 			// Draw the top card
 			Card top = myGame.TopCard;
